@@ -1,0 +1,64 @@
+# ===============================
+# OS junk
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+# IDE / Editor files
+# ===============================
+.idea/
+.vscode/
+*.iml
+
+# ===============================
+# Gradle
+# ===============================
+.gradle/
+build/
+out/
+run/
+logs/
+
+# Gradle wrapper cache (optional but recommended)
+gradle/wrapper/gradle-wrapper.jar
+
+# ===============================
+# MCreator-specific
+# ===============================
+
+# Generated source & compiled artifacts
+src/main/java/**/init/*
+src/main/java/**/network/*
+src/main/java/**/world/gen/*
+src/main/resources/assets/**/models/
+src/main/resources/assets/**/blockstates/
+src/main/resources/assets/**/lang/*.json
+src/main/resources/data/**/loot_tables/
+src/main/resources/data/**/recipes/
+src/main/resources/data/**/tags/
+src/main/resources/data/**/advancements/
+
+# Cache & temp
+*.mcreator/
+mcreator.log
+mcreator.properties
+*.tmp
+
+# Workspace backups
+*.backup
+*.bak
+
+# ===============================
+# Runtime
+# ===============================
+crash-reports/
+latest.log
+
+# ===============================
+# Exports
+# ===============================
+*.jar
+*.zip
+
