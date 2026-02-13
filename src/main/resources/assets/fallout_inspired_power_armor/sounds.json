@@ -1,0 +1,572 @@
+{
+  "click": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:click",
+        "stream": false
+      }
+    ]
+  },
+  "warningbeepbeep": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:warningbeepbeep",
+        "stream": false
+      }
+    ]
+  },
+  "deactivate": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:closevision",
+        "stream": false
+      }
+    ]
+  },
+  "tvstatic": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:static",
+        "stream": false
+      }
+    ]
+  },
+  "gasreleae": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:gasrelease",
+        "stream": false
+      }
+    ]
+  },
+  "raiderhurt": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:raiderhurt",
+        "stream": false
+      }
+    ]
+  },
+  "rippinnhippin": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:rippernew",
+        "stream": false
+      }
+    ]
+  },
+  "mechanicalservo": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:mechanicalbeep",
+        "stream": false
+      }
+    ]
+  },
+  "realpoweron": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:poweron",
+        "stream": false
+      }
+    ]
+  },
+  "midandopapel": {
+    "subtitle": "subtitles.midandopapel",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:midandoelpapel",
+        "stream": false
+      }
+    ]
+  },
+  "cierrapuerto": {
+    "subtitle": "subtitles.cierrapuerto",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:cierrapuerto",
+        "stream": false
+      }
+    ]
+  },
+  "abrapuerto": {
+    "subtitle": "subtitles.abrapuerto",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:puertoabran",
+        "stream": false
+      }
+    ]
+  },
+  "womanhurt": {
+    "subtitle": "subtitles.womanhurt",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:womanhurt",
+        "stream": false
+      }
+    ]
+  },
+  "lighton": {
+    "subtitle": "subtitles.lighton",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:lighton",
+        "stream": false
+      }
+    ]
+  },
+  "leverpartone": {
+    "subtitle": "subtitles.leverpartone",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:leverpartone",
+        "stream": false
+      }
+    ]
+  },
+  "addingcard": {
+    "subtitle": "subtitles.addingcard",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:addingcardsound",
+        "stream": false
+      }
+    ]
+  },
+  "buttonpoosh": {
+    "subtitle": "subtitles.buttonpoosh",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:button_push",
+        "stream": false
+      }
+    ]
+  },
+  "firstswitch": {
+    "subtitle": "subtitles.firstswitch",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:switchfirst",
+        "stream": false
+      }
+    ]
+  },
+  "threeswitches": {
+    "subtitle": "subtitles.threeswitches",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:aswitchpush",
+        "stream": false
+      }
+    ]
+  },
+  "detector": {
+    "subtitle": "subtitles.detector",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:detector",
+        "stream": false
+      }
+    ]
+  },
+  "closingvault": {
+    "subtitle": "subtitles.closingvault",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:closingvault",
+        "stream": false
+      }
+    ]
+  },
+  "openvault": {
+    "subtitle": "subtitles.openvault",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:vaultopen",
+        "stream": false
+      }
+    ]
+  },
+  "mutantdeath": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:mutantdeath",
+        "stream": false
+      }
+    ]
+  },
+  "mutanthurt": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:mutanthurt",
+        "stream": false
+      }
+    ]
+  },
+  "whizperz": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:whispers",
+        "stream": false
+      }
+    ]
+  },
+  "mutantambiont": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:mutantambient",
+        "stream": false
+      }
+    ]
+  },
+  "metalhit": {
+    "subtitle": "subtitles.metalhit",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:metal_hit",
+        "stream": false
+      }
+    ]
+  },
+  "fallexplosion": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:largeexplosion",
+        "stream": false
+      }
+    ]
+  },
+  "smallexplosion": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:fallboom",
+        "stream": false
+      }
+    ]
+  },
+  "waterexplosion": {
+    "subtitle": "subtitles.waterexplosion",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:159402__noirenex__overheadexplosion",
+        "stream": false
+      }
+    ]
+  },
+  "pressurepop": {
+    "subtitle": "subtitles.pressurepop",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:187332__baidonovan__carbonation-release-and-fizz",
+        "stream": false
+      }
+    ]
+  },
+  "missilefly": {
+    "subtitle": "subtitles.missilefly",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:528257__magnuswaker__missile-blast-2",
+        "stream": false
+      }
+    ]
+  },
+  "addarmormod": {
+    "subtitle": "subtitles.addarmormod",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:147018__xxqmanxx__socket-wrench",
+        "stream": false
+      }
+    ]
+  },
+  "newzap": {
+    "subtitle": "subtitles.newzap",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:512471__michael-grinnell__electric-zap",
+        "stream": false
+      }
+    ]
+  },
+  "laserimpactaniceperson": {
+    "subtitle": "subtitles.laserimpactaniceperson",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:440668__seansecret__laser-impact",
+        "stream": false
+      }
+    ]
+  },
+  "gaussrifleshoot": {
+    "subtitle": "subtitles.gaussrifleshoot",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:160880__deleted-user-2220466__bfg-laser",
+        "stream": false
+      }
+    ]
+  },
+  "mainsoundpanel": {
+    "subtitle": "subtitles.mainsoundpanel",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:mainsoundpanel",
+        "stream": false
+      }
+    ]
+  },
+  "sentryhurt1": {
+    "subtitle": "subtitles.sentryhurt1",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:336881__shahruhaudio__robotic-transform-3_sentryhurt",
+        "stream": false
+      }
+    ]
+  },
+  "sentryambient": {
+    "subtitle": "subtitles.sentryambient",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:321866__doty21__robot-noise_sentryambient",
+        "stream": false
+      }
+    ]
+  },
+  "jetpacklowsteam": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:419401__14g-panska-sosnam__running-faucet_for_rocketpack",
+        "stream": false
+      }
+    ]
+  },
+  "sentryhurt2": {
+    "subtitle": "subtitles.sentryhurt2",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:518766__creat142100__glitchy-robot-scream-20_sentryhurt",
+        "stream": false
+      }
+    ]
+  },
+  "jetpackmain": {
+    "subtitle": "subtitles.jetpackmain",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:203264__metrostock99__rocket-booster-raw-editable_forrocketpack",
+        "stream": false
+      }
+    ]
+  },
+  "rocketboots": {
+    "subtitle": "subtitles.rocketboots",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:480870__c3sabertooth__launch-futuristic_rocketboots",
+        "stream": false
+      }
+    ]
+  },
+  "deepfootstep": {
+    "subtitle": "subtitles.deepfootstep",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:458051__facklere__giant-walking-fast_bigfootstep",
+        "stream": false
+      }
+    ]
+  },
+  "machinegun": {
+    "subtitle": "subtitles.machinegun",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:370275__hellboy1305__gun-gun_1",
+        "stream": false
+      }
+    ]
+  },
+  "tenmm": {
+    "subtitle": "subtitles.tenmm",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:427594__michorvath__22-magnum-pistol-shot_10mminmod",
+        "stream": false
+      }
+    ]
+  },
+  "shotgunnew": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:522284__filmmakersmanual__shotgun-firing-3",
+        "stream": false
+      }
+    ]
+  },
+  "buryyoualive": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:395682__zajo__undead-voiceburalive",
+        "stream": false
+      }
+    ]
+  },
+  "death": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:395682__zajo__undead-voicedeath",
+        "stream": false
+      }
+    ]
+  },
+  "laugh": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:395682__zajo__undead-voicelaugh",
+        "stream": false
+      }
+    ]
+  },
+  "noangelsforyou": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:395682__zajo__undead-voicetheyarenotcomingforyou",
+        "stream": false
+      }
+    ]
+  },
+  "laserrifle": {
+    "subtitle": "subtitles.laserrifle",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:450768__tycoh__plasmapistol-shot",
+        "stream": false
+      }
+    ]
+  },
+  "laserfireing": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:588246__romeo-kaleikau__energy-weapon-laser",
+        "stream": false
+      }
+    ]
+  },
+  "blades": {
+    "subtitle": "subtitles.blades",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:234124__cheatsman115__sizzle",
+        "stream": false
+      }
+    ]
+  },
+  "fusioncoreplugin": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:278205__ianstargem__switch-flip-1",
+        "stream": false
+      }
+    ]
+  },
+  "walksound": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:622737__robhorror240__giantstompfootsteps",
+        "stream": false
+      }
+    ]
+  },
+  "fireland": {
+    "subtitle": "subtitles.fireland",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:275608__discoveryme__fire-spell-01",
+        "stream": false
+      }
+    ]
+  },
+  "firelauch": {
+    "subtitle": "subtitles.firelauch",
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:563540__colorscrimsontears__fire-2-rpg",
+        "stream": false
+      }
+    ]
+  },
+  "plasmacannon": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:531861__superphat__scifiheavyblastershot",
+        "stream": false
+      }
+    ]
+  },
+  "frankstealth": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:frankstealthappearweapon",
+        "stream": false
+      }
+    ]
+  },
+  "centaurhurt": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:443405__darsycho__monster-snarl-5",
+        "stream": false
+      }
+    ]
+  },
+  "centaurambient": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:567723__iut_paris8__boriero_nolwen_2020_2021_monster-breathing",
+        "stream": false
+      }
+    ]
+  },
+  "monsterclick": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:565024__khrinx__monster-screech",
+        "stream": false
+      }
+    ]
+  },
+  "minigun": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:minigun",
+        "stream": false
+      }
+    ]
+  },
+  "rifleassualt": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:416417__superphat__automatic-assault-rifle",
+        "stream": false
+      }
+    ]
+  },
+  "plasmagun": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:440146__dpren__scifi-gun-plasma-slinger",
+        "stream": false
+      }
+    ]
+  },
+  "equiparmor": {
+    "sounds": [
+      {
+        "name": "fallout_inspired_power_armor:equiparmor",
+        "stream": false
+      }
+    ]
+  }
+}

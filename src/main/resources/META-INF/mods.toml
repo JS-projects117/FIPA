@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="fallout_inspired_power_armor"
+version="1"
+displayName="Power armor"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="joseph8675309"
+description="A mod adding fallout inspired power armor, and weapons and this and that and all the cool crap"
+
+[[dependencies.fallout_inspired_power_armor]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
